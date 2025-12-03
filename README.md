@@ -22,14 +22,16 @@ https://drive.google.com/drive/folders/1u9feT7izYTvs8uqhgKtIAMXhsXuAo0hh?usp=sha
 If you find this repo useful in your research, please consider citing our paper.
 
 ```
-@misc{lafargue2025fairnessdetailsface,
-      title={Fairness is in the details : Face Dataset Auditing}, 
-      author={V. Lafargue and E. Claeys and J. M. Loubes},
-      year={2025},
-      eprint={2504.08396},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP},
-      url={https://arxiv.org/abs/2504.08396}, 
+@InProceedings{10.1007/978-3-032-06129-4_18,
+author="Lafargue, Valentin and Claeys, Emmanuelle and Loubes, Jean-Michel",
+editor="Dutra, In{\^e}s and Pechenizkiy, Mykola and Cortez, Paulo and Pashami, Sepideh and Pasquali, Arian and Moniz, Nuno and Jorge, Al{\'i}pio M. and Soares, Carlos and Abreu, Pedro H. and Gama, Jo{\~a}o",
+title="Fairness is in the Details : Face Dataset Auditing",
+booktitle="Machine Learning and Knowledge Discovery in Databases. Applied Data Science Track and Demo Track",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="299--315",
+isbn="978-3-032-06129-4"
 }
 ```
 
